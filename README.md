@@ -83,7 +83,6 @@ write(wfd,buff,n);
 }
 ```
 ## OUTPUT
-## C Program that illustrate communication between two process using named pipes using Linux API system calls
 
 <img width="480" height="270" alt="Screenshot from 2026-02-12 11-32-08" src="https://github.com/user-attachments/assets/89987740-364e-45a3-a813-4627d8209dd6" />
 
